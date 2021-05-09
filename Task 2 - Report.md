@@ -9,7 +9,9 @@ The model has been trained continuously for 8 days and was able to acheive the b
 
 The results are updated to the results folder in this repo https://github.com/MeherVandana/world-models-1/tree/master/WorldModels/results/WorldModels/CarRacing-v0/log.
 
-Car Racing Final Graph
+Please refer CarRacing-v0 in visualizations.ipynb at https://github.com/MeherVandana/world-models-1/blob/master/WorldModels/visualizations.ipynb
 
+**Car Racing Final Graph
+**
 ![image](https://user-images.githubusercontent.com/67869431/117555859-cf6edc80-b030-11eb-9f2a-c2b8b6ea1435.png)
 
