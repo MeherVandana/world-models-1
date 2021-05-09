@@ -15,3 +15,9 @@ Please refer CarRacing-v0 in visualizations.ipynb at https://github.com/MeherVan
 
 ![image](https://user-images.githubusercontent.com/67869431/117555859-cf6edc80-b030-11eb-9f2a-c2b8b6ea1435.png)
 
+CarRacing-v0	generation	avg.episode reward
+Eager	210	500.3
+D. Ha original	200	885.49
+![image](https://user-images.githubusercontent.com/67869431/117578799-1bb42e00-b0be-11eb-9441-ac72a12631d6.png)
+
+As we increase the training time, the learning rate of the model has increased considerably and the episode rewards improved from 0 to 500 as the generation increases from 0 to 200.
